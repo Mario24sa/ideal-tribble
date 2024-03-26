@@ -1,0 +1,54 @@
+)]}'
+{
+  "id": "36fd796243d61b96ae41a5761e522f5b7ce900e5",
+  "entries": [
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "c0e5cfffc780fe85ad9583fb52dadcc5aec13961",
+      "name": "BUILD"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "f80c0486e8598504c2c5dcc43c8326482f282da1",
+      "name": "agent"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "c1a1e692e4104c9e76115b6c346f75188d0e750b",
+      "name": "app_inspection.bzl"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "f9ef55c3a895fa02ddfad8eae26ad502bbc746a4",
+      "name": "inspectors"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d977ea2af345d0d3caad9c08e2389eaffc393206",
+      "name": "jarjar_rules.txt"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "33464224ccdd4f610f6aa0a5094ea043a30241a8",
+      "name": "native"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "77c5dd1c30a6079351d7b2f214902bebf5714c34",
+      "name": "test-app"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "6d2dcba1f5c5a08cb5ba0ec0de964fca59dc637a",
+      "name": "tests"
+    }
+  ]
+}
